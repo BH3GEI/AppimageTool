@@ -21,6 +21,8 @@ chmod +x AppimageTool.sh
 ./AppimageTool.sh
 
 ## 使用方法
+```
 appimage-installer install    # 安装 AppImage
 appimage-installer uninstall  # 卸载 AppImage
 appimage-installer info      # 显示 AppImage 信息
+```
