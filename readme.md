@@ -12,7 +12,7 @@ curl -fsSL https://raw.githubusercontent.com/yourusername/AppimageTool/main/Appi
 ## 手动安装
 
 ### 下载脚本
-wget https://raw.githubusercontent.com/yourusername/AppimageTool/main/AppimageTool.sh
+wget https://raw.githubusercontent.com/bh3gei/AppimageTool/main/AppimageTool.sh
 
 ### 添加执行权限
 chmod +x AppimageTool.sh
