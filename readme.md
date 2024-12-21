@@ -5,7 +5,7 @@
 ## 一键安装
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/AppimageTool/main/AppimageTool.sh | bash
+curl -fsSL https://raw.githubusercontent.com/bh3gei/AppimageTool/main/AppimageTool.sh | bash
 
 ```
 
